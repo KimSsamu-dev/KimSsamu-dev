@@ -1,4 +1,8 @@
 ### Hi there 👋
+### My name is David Tinarta (NIM:16520384)
+### I'm currently studying at STEI ITB
+### I'm looking forward to learn more about coding and tech-related stuff
+### My linkedin : https://www.linkedin.com/in/david-tinarta-996b951b8/
 
 <!--
 **KimSsamu-dev/KimSsamu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
